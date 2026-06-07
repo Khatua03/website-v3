@@ -2,6 +2,10 @@
 permalink: /publications/
 title: "Publications"
 ---
+<!-- ========================= -->
+<!-- Journal Articles Section -->
+<!-- ========================= -->
+
 
 <details id="manuscripts" open>
 <summary><h2>Journal Articles</h2></summary>
@@ -110,6 +114,11 @@ Review of Scientific Instruments <strong>91</strong>(10), 103901.
 
 </ol>
 
+
+<!-- ================================ -->
+<!-- Conference Proceedings Section -->
+<!-- ================================ -->
+
 </details>
 
 <details id="proceedings">
@@ -153,12 +162,17 @@ Conference on Lasers and Electro-Optics (CLEO 2023).
 
 </ol>
 
+<h2 id="conferences">Conference Presentations & Contributions</h2>
+
+<ol>
+
+<li>
 
 <strong>Khatua, D. P.</strong> (2022).<br>
 
 <em>Ultrafast Photoexcited Carrier Dynamics of Monolayer MoS₂ near Band Edge Above Mott Density.</em><br>
 
-37th M.P. Young Scientist Congress, March 14–17, 2022.
+37th M.P. Young Scientist Congress, Indore, India, March 14–17, 2022.
 
 </li>
 
@@ -175,6 +189,11 @@ Conference on Lasers and Electro-Optics (CLEO 2023).
 </li>
 
 </ol>
+
+
+<!-- ==================================== -->
+<!-- Conference Presentations Section -->
+<!-- ==================================== -->
 
 </details>
 
@@ -384,6 +403,10 @@ Khan, S.†, <strong>Khatua, D. P.</strong>, and Sharma, T. K. (2022).<br>
 </li>
 
 </ol>
+
+<!-- ==================================== -->
+<!-- Conference Presentations Section -->
+<!-- ==================================== -->
 
 </details>
 
