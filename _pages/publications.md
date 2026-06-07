@@ -153,11 +153,6 @@ Conference on Lasers and Electro-Optics (CLEO 2023).
 
 </ol>
 
-<h2 id="conferences">Conference Presentations & Contributions</h2>
-
-<ol>
-
-<li>
 
 <strong>Khatua, D. P.</strong> (2022).<br>
 
