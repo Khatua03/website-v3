@@ -1,10 +1,7 @@
 ---
-layout: single
-title: "Publications"
 permalink: /publications/
-author_profile: true
+title: "Publications"
 ---
-
 # Publications
 
 <h2 id="manuscripts">Journal Articles</h2>
