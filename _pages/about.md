@@ -5,7 +5,6 @@ title: "About"
 author_profile: true
 ---
 
-## About Me
 
 I am a Postdoctoral Scholar in the Department of Physics and Astronomy at the University of California, Los Angeles (UCLA). My research focuses on uncovering ultrafast phenomena in quantum materials and fusion plasmas using advanced optical and microwave diagnostics. I am particularly interested in understanding how light, charge carriers, and electromagnetic waves interact in complex systems across vastly different spatial and temporal scales.
 
