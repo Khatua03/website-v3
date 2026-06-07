@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Durga Prasad Khatua, Phd (He/Him)"
-  avatar : "/assets/images/profile_picture.jpg"
+  avatar : ""
   bio    :"Postdoctoral Scholar at UCLA. Research interests include ultrafast spectroscopy, fusion plasma diagnostics, and high-intensity light–matter interactions."
   links:
     - label: "Google Scholar"
