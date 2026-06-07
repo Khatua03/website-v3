@@ -56,7 +56,7 @@ DOI
 
 ## High-Intensity Plasmonics
 
-![Plasmonics](assets/images/research/highplasmonics.jpg)
+![Plasmonics]({{ site.baseurl }}/assets/images/research/highplasmonics.jpg)
 
 Investigation of plasmon excitation under ultra-intense laser irradiation using particle-in-cell simulations and experiments relevant to inertial confinement fusion.
 
