@@ -3,7 +3,6 @@ permalink: /publications/
 title: "Publications"
 ---
 
-<h1>Publications</h1>
 
 <details id="manuscripts" open>
 <summary><h2>Journal Articles</h2></summary>
