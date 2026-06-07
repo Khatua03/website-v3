@@ -63,13 +63,13 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=wIipuW0AAAAJ&hl=en&oi=ao"
     - label: "ORCID"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0001-7712-2469"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/dpkahtua/"
    
 
