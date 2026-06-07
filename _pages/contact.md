@@ -75,5 +75,6 @@ Los Angeles, California, USA
 
 ---
 
-> *"Science is a way of trying not to fool yourself."*  
-> **— Richard P. Feynman**
+> *"Research is what I’m doing when I don’t know what I’m doing."*  
+> **— Wernher von Braun**
+
