@@ -3,10 +3,11 @@ permalink: /publications/
 title: "Publications"
 ---
 
-
-<h2 id="manuscripts">Journal Articles</h2>
+<details id="manuscripts" open>
+<summary><h2>Journal Articles</h2></summary>
 
 <ol>
+
 
 <li>
 <strong>Khatua, D. P.</strong>, Singh, A., Gurung, S., and Jayabalan, J. (2024).<br>
