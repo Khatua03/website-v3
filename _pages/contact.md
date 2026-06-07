@@ -34,7 +34,7 @@ University of California, Los Angeles (UCLA)
 ## Curriculum Vitae
 
 <a class="btn btn--primary"
-   href="{{ site.baseurl }}/files/cv/Durga_Prasad_Khatua_CV.pdf">
+   href="{{ site.baseurl }}/files/paper/Durga_Prasad_Khatua_CV.pdf">
    Download CV
 </a>
 
