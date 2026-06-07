@@ -31,7 +31,7 @@ Micro and Nanostructures <strong>165</strong>, 207205.
 <br><br>
 
 <a class="btn btn--info" href="https://doi.org/10.1016/j.micrna.2022.207205">DOI</a>
-<a class="btn btn--primary" href="{{ site.baseurl }}/_papers/DPK_MicroandNanostructure_MoS2.pdf">PDF</a> 
+<a class="btn btn--primary" href="{{ site.baseurl }}/files/papers/DPK_MicroandNanostructure_MoS2.pdf">PDF</a> 
 
 </li>
 
