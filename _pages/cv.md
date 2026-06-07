@@ -2,27 +2,6 @@
 permalink: /cv/
 title: "CV"
 ---
-
-### 🎓 Education
-
-**Ph.D. in Physical Science**, *July 2017 – Sept 2022*  
-Homi Bhabha National Institute, Mumbai, India
-Raja Ramanna Centre for Advanced Technology (RRCAT), India  
-*Thesis: Ultrafast Photoexcited Carrier Dynamics in Two-Dimensional Molybdenum Disulfide*  
-
-**Master of Science (M.Sc.), Physics**, *July 2014 – June 2016*  
-P.G. Department of Physics, Utkal University, Bhubaneswar, India  
-
-**Bachelor of Science (B.Sc.), Physics Hons.**, *2010 – 2013*  
-Gopabandhu Science College, Athgarh  
-Utkal University, Bhubaneswar, India  
-
-**Higher Secondary Education (12th)**, *2008 – 2010*  
-Council of Higher Secondary Education (CHSE), Odisha, India  
-
-**Secondary Education (10th)**, *2008*  
-Board of Secondary Education (BSE), Odisha, India  
-
 ### ⚛️ Research Experience
 
 **Postdoctoral Research Scholar**, *Nov 2024 – Present*  
@@ -44,6 +23,27 @@ Raja Ramanna Centre for Advanced Technology (RRCAT), Indore, India
 P.G. Department of Physics, Utkal University, Bhubaneswar, India  
 **Thesis:** Basic Ion Optics and Study of Different Electrostatic Lenses  
 **Supervisor:** Prof. Durga Prasad Mohapatra  
+
+### 🎓 Education
+
+**Ph.D. in Physical Science**, *July 2017 – Sept 2022*  
+Homi Bhabha National Institute, Mumbai, India
+Raja Ramanna Centre for Advanced Technology (RRCAT), India  
+*Thesis: Ultrafast Photoexcited Carrier Dynamics in Two-Dimensional Molybdenum Disulfide*  
+
+**Master of Science (M.Sc.), Physics**, *July 2014 – June 2016*  
+P.G. Department of Physics, Utkal University, Bhubaneswar, India  
+
+**Bachelor of Science (B.Sc.), Physics Hons.**, *2010 – 2013*  
+Gopabandhu Science College, Athgarh  
+Utkal University, Bhubaneswar, India  
+
+**Higher Secondary Education (12th)**, *2008 – 2010*  
+Council of Higher Secondary Education (CHSE), Odisha, India  
+
+**Secondary Education (10th)**, *2008*  
+Board of Secondary Education (BSE), Odisha, India  
+
 
 ### 🛠️ Technical Skills
 
