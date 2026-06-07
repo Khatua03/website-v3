@@ -58,7 +58,9 @@ DOI
 
 ![Plasmonics]({{ site.baseurl }}/assets/images/research/highplasmonics.jpg)
 
-Investigation of plasmon excitation under ultra-intense laser irradiation using particle-in-cell simulations and experiments relevant to inertial confinement fusion.
+Numerical investigation of surface plasmon excitation in metallic nanostructures irradiated by ultra-intense femtosecond laser pulses. Using particle-in-cell simulations, this work explores intensity-dependent laser–plasma interactions, surface resonance excitation, and hot-electron generation in nanoscale targets. The study is relevant to advanced particle acceleration schemes, high-harmonic generation, and inertial confinement fusion applications.
+
+**Status:** Manuscript in preparation.
 
 ---
 
