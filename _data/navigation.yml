@@ -1,8 +1,9 @@
-- title: "About"
+main:
+  - title: "About"
     url: /
 
-  - title: "CV"
-    url: /cv/
+  - title: "Research"
+    url: /research/
 
   - title: "Publications"
     url: /publications/
@@ -18,3 +19,18 @@
 
       - title: "Books"
         url: /publications/#books
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Gallery"
+    url: /gallery/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "News"
+    url: /news/
+
+  - title: "Contact"
+    url: /contact/
