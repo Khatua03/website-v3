@@ -181,7 +181,209 @@ Conference on Lasers and Electro-Optics (CLEO 2023).
 <details id="conferences">
 <summary><h2>Conference Presentations & Contributions</h2></summary>
 
-<p>Content here...</p>
+<ol>
+
+<li>
+
+<strong>Khatua, D. P.</strong>, Crocker, N. A., Micheal, C. A., et al. (2025).<br>
+
+<em>Observation of Ion Cyclotron Emission in MAST-U Ohmic Plasma.</em><br>
+
+67th Annual Meeting of the APS Division of Plasma Physics (APS-DPP 2025), Long Beach Convention Center, Long Beach, CA, USA, November 17–21, 2025.
+
+</li>
+
+<br>
+
+<li>
+
+<strong>Khatua, D. P.</strong>, Shafirin, P., Joly-Jehenne, T., and Davoyan, A. (2025).<br>
+
+<em>Ultrafast Plasmon Dynamics Under High-Intensity Laser Excitation.</em><br>
+
+CLEO 2025, Long Beach Convention Center, Long Beach, CA, USA, May 4–9, 2025.
+
+</li>
+
+<br>
+
+<li>
+
+<strong>Khatua, D. P.</strong>, Shafirin, P., Joly-Jehenne, T., and Davoyan, A. (2025).<br>
+
+<em>Plasmon Excitation Under Extreme-Intensity Laser Pulses.</em><br>
+
+APS Joint March Meeting & April Meeting, Anaheim, CA, USA, March 16–21, 2025.
+
+<strong>[Oral Presentation]</strong>
+
+</li>
+
+<br>
+
+<li>
+
+<strong>Khatua, D. P.</strong>, Gurung, S., Singh, A., and Jayabalan, J. (2025).<br>
+
+<em>Ultrafast Carrier Dynamics Near A, B, and C Excitons in Monolayer MoS₂ under High Excitation Densities: A Comparative Study.</em><br>
+
+APS Joint March Meeting & April Meeting, Anaheim, CA, USA, March 16–21, 2025.
+
+</li>
+
+<br>
+
+<li>
+
+<strong>Khatua, D. P.</strong>, Shafirin, P., and Davoyan, A. (2024).<br>
+
+<em>Plasmon-Driven High-Energy Light–Matter Interaction.</em><br>
+
+APS March Meeting, Minneapolis, MN, USA, March 3–8, 2024.
+
+<strong>[Oral Presentation]</strong>
+
+</li>
+
+<br>
+
+<li>
+
+<strong>Khatua, D. P.</strong>, Singh, A., Gurung, S., and Jayabalan, J. (2024).<br>
+
+<em>Ultrafast Carrier Dynamics at Carrier Densities Above Mott Density: Monolayer vs Multilayer MoS₂.</em><br>
+
+APS March Meeting, Minneapolis, MN, USA, March 3–8, 2024.
+
+</li>
+
+<br>
+
+<li>
+
+<strong>Khatua, D. P.</strong> (2022).<br>
+
+<em>Ultrafast Photoexcited Carrier Dynamics of Monolayer MoS₂ near Band Edge Above Mott Density.</em><br>
+
+37th M.P. Young Scientist Congress, Indore, India, March 14–17, 2022.
+
+<strong>[Oral Presentation]</strong>
+
+</li>
+
+<br>
+
+<li>
+
+<strong>Khatua, D. P.</strong>, Gurung, S., Singh, A., Khan, S., and Jayabalan, J. (2021).<br>
+
+<em>A Comparison of the Transient Optical Response of a Monolayer MoS₂ Near Its A, B, and C Excitons.</em><br>
+
+65th DAE Solid State Physics Symposium, BARC, Mumbai, India, December 15–19, 2021.
+
+<strong>[Best Poster Award]</strong>
+
+</li>
+
+<br>
+
+<li>
+
+<strong>Khatua, D. P.</strong>, Gurung, S., Singh, A., Khan, S., and Jayabalan, J. (2021).<br>
+
+<em>Ultrafast Carrier Dynamics in a Single MoS₂ Monolayer Flake at High Excitation Densities.</em><br>
+
+7th Theme Meeting on Ultrafast Science, UM-DAE CEBS, Mumbai, India, November 12–14, 2021.
+
+</li>
+
+<br>
+
+<li>
+
+<strong>Khatua, D. P.</strong>, Gurung, S., Singh, A., Khan, S., and Jayabalan, J. (2019).<br>
+
+<em>Carrier Dynamics Measurement on MoS₂ Monolayers using Ultrafast Pump–Probe Spectroscopy.</em><br>
+
+Ultrafast Sciences, IIT Bombay, India, November 7–9, 2019.
+
+</li>
+
+</ol>
+
+<h2 id="coauthors">Co-authored Conference Contributions</h2>
+
+<ol>
+
+<li>
+
+<strong>Khatua, D. P.</strong>, Shafirin, P.†, Joly-Jehenne, T., and Davoyan, A. (2025).<br>
+
+<em>Plasmon Dynamics Under High Intensity Illumination.</em><br>
+
+MRS Spring Meeting & Exhibit, Seattle, WA, USA, April 7–11, 2025.
+
+<small>† Presenting Author: P. Shafirin</small>
+
+</li>
+
+<br>
+
+<li>
+
+Shafirin, P.†, <strong>Khatua, D. P.</strong>, and Davoyan, A. (2025).<br>
+
+<em>Effects of Thin Films on the Dynamics of Nanosecond Laser Ablation.</em><br>
+
+MRS Spring Meeting & Exhibit, Seattle, WA, USA, April 7–11, 2025.
+
+<small>† Presenting Author</small>
+
+</li>
+
+<br>
+
+<li>
+
+Shafirin, P.†, <strong>Khatua, D. P.</strong>, and Davoyan, A. (2024).<br>
+
+<em>Nanosecond Light–Matter Interaction with Structured Targets in Ablation Regime.</em><br>
+
+APS March Meeting, Minneapolis, MN, USA, March 3–8, 2024.
+
+<small>† Presenting Author</small>
+
+</li>
+
+<br>
+
+<li>
+
+Shafirin, P.†, <strong>Khatua, D. P.</strong>, Feng, P., and Davoyan, A. (2023).<br>
+
+<em>Nanophotonic Control of High Energy Light–Materials Interaction.</em><br>
+
+CLEO: Applications and Technology 2023, San Jose, CA, USA, May 7–12, 2023.
+
+<small>† Presenting Author</small>
+
+</li>
+
+<br>
+
+<li>
+
+Khan, S.†, <strong>Khatua, D. P.</strong>, and Sharma, T. K. (2022).<br>
+
+<em>Micro-photoluminescence Studies on MoS₂ Two-Dimensional Monolayer using CW and Femtosecond Laser.</em><br>
+
+30th DAE–BRNS National Laser Symposium, BARC, Mumbai, India, January 19–22, 2022.
+
+<small>† Presenting Author</small>
+
+</li>
+
+</ol>
 
 </details>
 
