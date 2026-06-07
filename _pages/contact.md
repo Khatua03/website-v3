@@ -3,7 +3,6 @@ permalink: /contact/
 title: "Contact"
 ---
 
-# Contact
 
 I welcome inquiries regarding research collaborations, postdoctoral and faculty opportunities, student mentoring, and discussions related to ultrafast spectroscopy, quantum materials, photonics, and plasma physics.
 
