@@ -58,20 +58,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Durga Prasad Khatua, Phd (He/Him)"
-  avatar : "assets/images/profile_picture.jpg"
-  bio    :"Postdoctoral Scholar at UCLA. Research interests include ultrafast spectroscopy, fusion plasma diagnostics, and high-intensity light–matter interactions."
+  name: "Durga Prasad Khatua, PhD"
+  avatar: "/assets/images/profile_picture.jpg"
+  bio: "Postdoctoral Scholar at UCLA. Research interests include ultrafast spectroscopy, plasma diagnostics, and light–matter interaction."
   links:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=wIipuW0AAAAJ&hl=en&oi=ao"
+
     - label: "ORCID"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0001-7712-2469"
+
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/dpkahtua/"
-   
+      url: "https://www.linkedin.com/in/dpkhatua/"
+
 
 footer:
   links:
