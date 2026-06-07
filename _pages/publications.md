@@ -17,7 +17,7 @@ arXiv:2407.05038.
 <br><br>
 
 <a class="btn btn--info" href="https://doi.org/10.48550/arXiv.2407.05038">DOI</a>
-<a class="btn btn--primary" href="{{ site.baseurl }}/_papers/Khatua_arxiv_2024.pdf">PDF</a>
+<a class="btn btn--primary" href="{{ site.baseurl }}/_papers/Khatua_arxiv_2024.pdf">PDF</a> 
 
 </li>
 
@@ -31,7 +31,7 @@ Micro and Nanostructures <strong>165</strong>, 207205.
 <br><br>
 
 <a class="btn btn--info" href="https://doi.org/10.1016/j.micrna.2022.207205">DOI</a>
-<a class="btn btn--primary" href="{{ site.baseurl }}/_papers/DPK_MicroandNanostructure_MoS2.pdf">PDF</a>
+<a class="btn btn--primary" href="{{ site.baseurl }}/_papers/DPK_MicroandNanostructure_MoS2.pdf">PDF</a> 
 
 </li>
 
@@ -115,7 +115,71 @@ Review of Scientific Instruments <strong>91</strong>(10), 103901.
 <details id="proceedings">
 <summary><h2>Conference Proceedings</h2></summary>
 
-<p>Content here...</p>
+<ol>
+
+<li>
+
+<strong>Khatua, D. P.</strong>, Shafirin, P., Joly-Jehenne, T., and Davoyan, A. (2025).<br>
+
+<em>Ultrafast Plasmon Dynamics Under High-Intensity Laser Excitation.</em><br>
+
+Technical Digest Series (Optica Publishing Group), Paper JPS100_1.<br>
+
+Conference on Lasers and Electro-Optics (CLEO 2025).
+
+<br><br>
+
+<a class="btn btn--info" href="https://doi.org/10.1364/CLEO_AT.2025.JPS100_1">DOI</a>
+
+</li>
+
+<br>
+
+<li>
+
+Shafirin, P., Feng, P., <strong>Khatua, D. P.</strong>, and Davoyan, A. (2023).<br>
+
+<em>Nanophotonic Control of High Energy Light–Materials Interaction.</em><br>
+
+Technical Digest Series (Optica Publishing Group), Paper JTh2A.79.<br>
+
+Conference on Lasers and Electro-Optics (CLEO 2023).
+
+<br><br>
+
+<a class="btn btn--info" href="https://doi.org/10.1364/CLEO_AT.2023.JTh2A.79">DOI</a>
+
+</li>
+
+</ol>
+
+<h2 id="conferences">Conference Presentations & Contributions</h2>
+
+<ol>
+
+<li>
+
+<strong>Khatua, D. P.</strong> (2022).<br>
+
+<em>Ultrafast Photoexcited Carrier Dynamics of Monolayer MoS₂ near Band Edge Above Mott Density.</em><br>
+
+37th M.P. Young Scientist Congress, March 14–17, 2022.
+
+</li>
+
+<br>
+
+<li>
+
+<strong>Khatua, D. P.</strong>, Gurung, S., Singh, A., Khan, S., and Jayabalan, J. (2021).<br>
+
+<em>A Comparison of the Transient Optical Response of a Monolayer MoS₂ Near Its A, B, and C Excitons.</em><br>
+
+65th DAE Solid State Physics Symposium, Bhabha Atomic Research Centre (BARC), Mumbai, India, December 15–19, 2021.
+
+</li>
+
+</ol>
 
 </details>
 
