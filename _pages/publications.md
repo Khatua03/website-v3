@@ -21,7 +21,7 @@ arXiv:2407.05038.
 <br><br>
 
 <a class="btn btn--info" href="https://doi.org/10.48550/arXiv.2407.05038">DOI</a>
-<a class="btn btn--primary" href="{{ site.baseurl }}/papers/Khatua_arxiv_2024.pdf">PDF</a> \
+<a class="btn btn--primary" href="{{ site.baseurl }}/papers/Khatua_arxiv_2024.pdf">PDF</a> 
 
 </li>
 
