@@ -1,15 +1,24 @@
 ---
+layout: single
 title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
 
 # Publications
 
-## Journal Articles {#manuscripts}
+<h2 id="manuscripts">Journal Articles</h2>
 
-## Conference Proceedings {#proceedings}
+Content here...
 
-## Conference Presentations & Contributions {#conferences}
+<h2 id="proceedings">Conference Proceedings</h2>
 
-## Books {#books}
+Content here...
 
+<h2 id="conferences">Conference Presentations & Contributions</h2>
+
+Content here...
+
+<h2 id="books">Books</h2>
+
+Content here...
