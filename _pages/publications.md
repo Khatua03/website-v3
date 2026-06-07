@@ -160,11 +160,7 @@ Conference on Lasers and Electro-Optics (CLEO 2023).
 
 </li>
 
-</ol>
-
-<h2 id="conferences">Conference Presentations & Contributions</h2>
-
-<ol>
+<br>
 
 <li>
 
