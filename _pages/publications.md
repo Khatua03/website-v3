@@ -1,5 +1,3 @@
-
-
 ---
 title: "Publications"
 permalink: /publications/
@@ -9,14 +7,9 @@ permalink: /publications/
 
 ## Journal Articles {#manuscripts}
 
-
-
 ## Conference Proceedings {#proceedings}
 
-
 ## Conference Presentations & Contributions {#conferences}
-
-
 
 ## Books {#books}
 
