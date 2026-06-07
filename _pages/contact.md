@@ -32,22 +32,6 @@ University of California, Los Angeles (UCLA)
 
 ---
 
-## Professional Profiles
-
-🔗 Google Scholar  
-https://scholar.google.com/citations?user=wIipuW0AAAAJ
-
-🔗 ORCID  
-https://orcid.org/0000-0001-7712-2469
-
-🔗 LinkedIn  
-https://www.linkedin.com/in/dpkhatua/
-
-🔗 GitHub  
-https://github.com/Khatua03
-
----
-
 ## Curriculum Vitae
 
 <a class="btn btn--primary"
