@@ -38,7 +38,7 @@ Development of multi-frequency Q-band and V-band Doppler Backscattering diagnost
 
 My doctoral research focused on understanding ultrafast carrier dynamics in monolayer and multilayer MoS₂ under excitation densities exceeding the Mott transition threshold.
 
-![MoS2 Pump Probe](assets/images/research/MoLvsMuL_ABC.jpg)
+![MoS2 Carrier dynamics]{{ site.baseurl }}assets/images/research/MoLvsMuL_ABC.jpg)
 
 My doctoral research focused on understanding ultrafast carrier dynamics in monolayer and multilayer MoS₂ under excitation densities exceeding the Mott transition threshold.
 
