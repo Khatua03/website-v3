@@ -55,10 +55,14 @@ DOI
 ---
 
 ## High-Intensity Plasmonics
+Numerical investigation of surface plasmon excitation in metallic nanostructures irradiated by ultra-intense femtosecond laser pulses. Using particle-in-cell simulations, this work explores intensity-dependent laser–plasma interactions, surface resonance excitation, and hot-electron generation in nanoscale targets. The study is relevant to advanced particle acceleration schemes, high-harmonic generation, and inertial confinement fusion applications.
+
 
 ![Plasmonics]({{ site.baseurl }}/assets/images/research/highplasmonics.jpg)
 
-Numerical investigation of surface plasmon excitation in metallic nanostructures irradiated by ultra-intense femtosecond laser pulses. Using particle-in-cell simulations, this work explores intensity-dependent laser–plasma interactions, surface resonance excitation, and hot-electron generation in nanoscale targets. The study is relevant to advanced particle acceleration schemes, high-harmonic generation, and inertial confinement fusion applications.
+*Figure:* Surface plasmon excitation and hot-electron generation in a metallic nanobar irradiated by an ultra-intense femtosecond laser pulse. **(a)** Schematic illustration of laser-driven surface plasmon excitation in the nanostructure. **(b)** Intensity-dependent evolution of the Ex field spectrum measured 3.3 nm from the nanobar surface. **(c)** Spatial distribution of the Ex field at 9 fs for a peak laser intensity of 1×10^16 W/cm², showing the excitation of a localized surface resonance mode. **(d)** Corresponding hot-electron density distribution at 9 fs, illustrating electron acceleration and confinement driven by plasmon-enhanced electromagnetic fields.
+
+**Status:** Manuscript in preparation.
 
 **Status:** Manuscript in preparation.
 
