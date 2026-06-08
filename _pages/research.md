@@ -38,7 +38,7 @@ Development of multi-frequency Q-band and V-band Doppler Backscattering diagnost
 
 My doctoral research focused on understanding ultrafast carrier dynamics in monolayer and multilayer MoS₂ under excitation densities exceeding the Mott transition threshold.
 
-![MoS2 Carrier dynamics]{{ site.baseurl }}assets/images/research/MoLvsMuL_ABC.jpg)
+![MoS2 Carrier dynamics]({{ site.baseurl }}/assets/images/research/MoLvsMuL_ABC.jpg)
 
 *Figure:* Ultrafast carrier dynamics and relaxation pathways in monolayer (ML) and multilayer (MuL) MoS₂ under high-density photoexcitation. (i) Fluence-dependent transient differential transmission dynamics at the A-exciton resonance in monolayer MoS₂. (ii) Comparison of carrier dynamics following excitation at the A-, B-, and C-exciton resonances in monolayer MoS₂. (iii) Fluence-dependent transient differential transmission dynamics at the A-exciton resonance in multilayer MoS₂. (iv) Proposed carrier relaxation mechanisms in monolayer MoS₂ for excitation at the A-, B-, and C-exciton resonances, highlighting exciton dissociation, Auger scattering, band-gap renormalization, and phonon-assisted relaxation processes. (v) Comparison of carrier relaxation pathways following A-exciton excitation in (a) monolayer and (b) multilayer MoS₂, illustrating the influence of dimensionality on carrier redistribution and relaxation dynamics.
 
