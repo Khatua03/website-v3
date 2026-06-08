@@ -77,6 +77,29 @@ Development of nanosecond laser ablation systems and ICCD-based diagnostics to s
 
 ---
 
+## Ultrafast Spectroscopy Instrumentation and Detection Techniques
+
+Development of a highly sensitive detection scheme for ultrafast pump–probe spectroscopy performed using low-repetition-rate femtosecond laser systems. This work introduced a hybrid detection architecture that combines the time-domain noise rejection capability of a boxcar averager with the frequency-domain selectivity of a lock-in amplifier, significantly improving the signal-to-noise ratio in transient absorption measurements.
+
+The technique enables sensitive measurements of carrier dynamics while minimizing pump-induced perturbations and reducing the effects of laser pulse-to-pulse energy fluctuations. The methodology is broadly applicable to ultrafast spectroscopy, nonlinear optics, and other low-repetition-rate optical measurements.
+
+![Pump-Probe Instrumentation]({{ site.baseurl }}/assets/images/research/pumpprobe_detection.jpg)
+
+**Figure:** Experimental pump–probe setup and hybrid detection scheme combining a boxcar averager and lock-in amplifier for high-sensitivity transient absorption measurements.
+
+**Related Publication**
+
+<a class="btn btn--primary"
+href="{{ site.baseurl }}/files/papers/Khatua_RSI_2020.pdf">
+PDF
+</a>
+
+<a class="btn btn--info"
+href="https://doi.org/10.1063/5.0010449">
+DOI
+</a>
+---
+
 ## Scientific Instrumentation Development
 
 - Pump–probe spectroscopy systems
