@@ -36,7 +36,9 @@ Development of multi-frequency Q-band and V-band Doppler Backscattering diagnost
 
 ## Ultrafast Carrier Dynamics in Two-Dimensional Materials
 
-![MoS2 Pump Probe](/assets/images/research/mos2_pumpprobe.jpg)
+My doctoral research focused on understanding ultrafast carrier dynamics in monolayer and multilayer MoS₂ under excitation densities exceeding the Mott transition threshold.
+
+![MoS2 Pump Probe](assets/images/research/MoLvsMuL_ABC.jpg)
 
 My doctoral research focused on understanding ultrafast carrier dynamics in monolayer and multilayer MoS₂ under excitation densities exceeding the Mott transition threshold.
 
@@ -64,7 +66,6 @@ Numerical investigation of surface plasmon excitation in metallic nanostructures
 
 **Status:** Manuscript in preparation.
 
-**Status:** Manuscript in preparation.
 
 ---
 
